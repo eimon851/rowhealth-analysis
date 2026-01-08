@@ -42,7 +42,7 @@ To assess the effectiveness of our campaign, we concentrated on the following es
 
 Sample from [Excel Workbook](https://github.com/eimon851/rowhealth-analysis/blob/main/images/rh-excel-1.png?raw=true)
 
-![image]()
+![image](https://github.com/eimon851/rowhealth-analysis/blob/main/images/rh-excel-1.png?raw=true)
 
 
 ## SQL Insights Summary
