@@ -10,7 +10,7 @@ With the recent addition of a data team, Row Health is planning its marketing bu
 
 The dataset I analyzed consist of three tables and includes information on customers, campaigns and claims. Here is the Entity Relationship Diagram for the data I'll be using 
 
-![Health Data ERD](https://github.com/user-attachments/assets/522e6fbe-a922-4e9f-8434-157b044f365b)
+![Health Data ERD](https://github.com/eimon851/rowhealth-analysis/blob/main/images/rh-schema.png?raw=true)
   
   ## Excel Insights Summary
   
@@ -40,9 +40,9 @@ To assess the effectiveness of our campaign, we concentrated on the following es
 
 ### Technical Analysis
 
-Sample from [Excel Workbook](/RowHealth-Analysis/rowhealth.xlsx/rowhealth%20case%20study.xlsx)
+Sample from [Excel Workbook](https://github.com/eimon851/rowhealth-analysis/blob/main/images/rh-excel-1.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/938a063c-b1de-4e4c-9eb7-6b9f080e0ce2)
+![image]()
 
 
 ## SQL Insights Summary
@@ -131,14 +131,14 @@ order by 2 desc;
 
 Using google sheets, a presentation for the marketing team covers the insights and recommendations mentioned above and can be found here. Below are a few highlights for quick reference.
 
-![row_health_presentation pptx (2)](https://github.com/user-attachments/assets/49892d3b-3cc9-425c-b2a0-276c1976ec5e)
+![row_health_presentation pptx (2)](https://github.com/eimon851/rowhealth-analysis/blob/main/images/ppt-1.jpg?raw=true)
 
-![row_health_presentation pptx (1)](https://github.com/user-attachments/assets/de9bbb62-04c3-4c31-ba2c-684ba84ac853)
+![row_health_presentation pptx (1)](https://github.com/eimon851/rowhealth-analysis/blob/main/images/ppt-2.jpg?raw=true)
 
-![row_health_presentation pptx](https://github.com/user-attachments/assets/6ecb420a-b1c8-44a4-b7ae-382c99998890)
+![row_health_presentation pptx](https://github.com/eimon851/rowhealth-analysis/blob/main/images/ppt-3.jpg?raw=true)
 
 # Tableau Dashboard
 The dashboard can be found on Tableau Public [here](/https://public.tableau.com/app/profile/mohammad.eimon/viz/rowhealth_tableau_dashboard/Dashboard2?publish=yes). This dashboard focuses campaign performance primarily on signup metrics at the category and platform level while proving marketing metrics all of which can be filtered by the campaign's category and platform.
 
-![Dashboard 2](https://github.com/user-attachments/assets/9bc8dd05-8852-4ad0-ada5-e234150b5e6f)
+![Dashboard 2](https://github.com/eimon851/rowhealth-analysis/blob/main/images/rowhealth-dashboard.png?raw=true)
 
